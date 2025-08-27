@@ -1,4 +1,4 @@
-# CPRS: Comprehensive Privacy Risk Scoring
+# CPRS: Comprehensive Privacy Risk Scoring HyperText'25
 
 Implements APRS, SGPRS (SimRank + PageRank), CBPRS (NER + visibility), AHP weighting, and overall CPRS.
 
