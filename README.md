@@ -1,5 +1,3 @@
-# ComprehensivePrivacyRiskHT25
-
 # CPRS: Comprehensive Privacy Risk Scoring
 
 Implements APRS, SGPRS (SimRank + PageRank), CBPRS (NER + visibility), AHP weighting, and overall CPRS.
